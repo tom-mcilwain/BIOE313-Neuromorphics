@@ -1,4 +1,4 @@
-# BIOE313: Neuromorphics: Brains in Silicon - Stanford University
+# BIOE 313: Neuromorphics: Brains in Silicon - Stanford University
 
 Title: Finding Reliable Activation of Neural Sequences in the Visual Cortex of Macaque Monkeys
 
